@@ -28,8 +28,8 @@ The goal of this project was to explore and learn how neural networks work, from
 ## 🚀 Usage
 
 ```py
->>> python train.py()
->>> python test.py()
+>>> python train.py
+>>> python test.py
 'Accuracy: 97.98!'
 ```
 
