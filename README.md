@@ -36,7 +36,6 @@ The goal of this project was to explore and learn how neural networks work, from
 
 ## ⬇️ Installation
 
-Simple, understandable installation instructions!
 
 ```bash
 git clone https://github.com/Mrgronk1/Digit-Recognition-Python.git
