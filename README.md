@@ -39,7 +39,7 @@ The goal of this project was to explore and learn how neural networks work, from
 Simple, understandable installation instructions!
 
 ```bash
-git clone https://github.com/Mrgronk1/Letter-Recognition-Python.git
+git clone https://github.com/Mrgronk1/Digit-Recognition-Python.git
 ```
 
 ## 💭 Feedback and Contributing
